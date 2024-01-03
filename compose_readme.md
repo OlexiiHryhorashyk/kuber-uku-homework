@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ## Compose sample
 ### Prometheus & Grafana
 
@@ -63,3 +64,7 @@ Stop and remove the containers. Use `-v` to remove the volumes if looking to era
 ```
 $ docker compose down -v
 ```
+=======
+# kuber-uku-homework
+Kubernetes task for Dev/DataOps course in UCU Data Engineering  Certification Program
+>>>>>>> c94e83c1a58d0d2700f434bde5b61d33b65583ba
